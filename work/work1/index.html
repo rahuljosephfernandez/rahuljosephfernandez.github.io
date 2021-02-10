@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>A Theoretical Model of the Individual-Decision Making Processes for Refugees :: Rahul Joseph Fernandez</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="This project aims to provide a model for the individual-decision making process for refugees that could further be translated into computerized or large-scale multi-agent simulations.
+Abstract There exists contemporarily over 70 million people forced into displacement, which is historically the highest the world has seen, making aid for humanitarian crises more necessary than ever. This paper aims at a formulation for a basic theoretical model, within the Agent-Based Modelling (ABM) framework, that can be used in to make predictions about refugee migration-decision making processes." />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://rahuljosephfernandez.github.io/work/work1/" />
+
+
+
+
+<link rel="stylesheet" href="https://rahuljosephfernandez.github.io/assets/style.css">
+
+  <link rel="stylesheet" href="https://rahuljosephfernandez.github.io/assets/pink.css">
+
+
+
+
+
+
+<link rel="apple-touch-icon" href="https://rahuljosephfernandez.github.io/img/apple-touch-icon-192x192.png">
+
+  <link rel="shortcut icon" href="https://rahuljosephfernandez.github.io/img/favicon/pink.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="A Theoretical Model of the Individual-Decision Making Processes for Refugees">
+<meta property="og:description" content="This project aims to provide a model for the individual-decision making process for refugees that could further be translated into computerized or large-scale multi-agent simulations.
+Abstract There exists contemporarily over 70 million people forced into displacement, which is historically the highest the world has seen, making aid for humanitarian crises more necessary than ever. This paper aims at a formulation for a basic theoretical model, within the Agent-Based Modelling (ABM) framework, that can be used in to make predictions about refugee migration-decision making processes." />
+<meta property="og:url" content="https://rahuljosephfernandez.github.io/work/work1/" />
+<meta property="og:site_name" content="Rahul Joseph Fernandez" />
+
+  <meta property="og:image" content="https://rahuljosephfernandez.github.io/img/refugeemodel.png">
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+
+  <meta property="article:published_time" content="2020-11-28 00:00:00 &#43;0000 UTC" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="pink">
+
+
+<div class="container full headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    rahul joseph fernandez
+  </div>
+</a>
+
+    </div>
+    
+      <div class="menu-trigger">menu</div>
+    
+  </div>
+  
+    <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/about">About</a></li>
+        
+      
+        
+          <li><a href="/contact">Contact</a></li>
+        
+      
+        
+          <li><a href="/cv">Curriculum Vitáe</a></li>
+        
+      
+        
+          <li><a href="/resume">Resumé</a></li>
+        
+      
+        
+          <li><a href="/work">Work</a></li>
+        
+      
+      
+    
+
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/about">About</a></li>
+      
+    
+      
+        <li><a href="/contact">Contact</a></li>
+      
+    
+      
+        <li><a href="/cv">Curriculum Vitáe</a></li>
+      
+    
+      
+        <li><a href="/resume">Resumé</a></li>
+      
+    
+      
+        <li><a href="/work">Work</a></li>
+      
+    
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="https://rahuljosephfernandez.github.io/work/work1/">A Theoretical Model of the Individual-Decision Making Processes for Refugees</a></h1>
+  <div class="post-meta">
+    
+      <span class="post-date">
+        2020-11-28 
+      </span>
+    
+    
+    <span class="post-author">:: Rahul</span>
+    
+  </div>
+
+  
+
+  
+    <img src="https://rahuljosephfernandez.github.io/img/refugeemodel.png" class="post-cover" alt="A Theoretical Model of the Individual-Decision Making Processes for Refugees" />
+  
+
+  
+
+  <div class="post-content"><div>
+        <p>This project aims to provide a model for the individual-decision making process for refugees that could further be translated into computerized or large-scale multi-agent simulations.</p>
+<h1 id="abstract">Abstract<a href="#abstract" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+<p>There exists contemporarily over 70 million people forced into displacement, which is historically the highest the world has seen, making aid for humanitarian crises more necessary than ever. This paper aims at a formulation for a basic theoretical model, within the Agent-Based Modelling (ABM) framework, that can be used in to make predictions about refugee migration-decision making processes. Some of the models existing are reviewed, serving as a reference for assumptions and choices made in the model presented here. Following which the model is described in the form of a cost-benefit evaluation problem along with the assumptions it makes. The model has no explicit analytic solution but can be employed by way of computerized simulations. Owing to a dearth of the requisite data to run simulations, the model was not simulated within this paper. Extensions to the model are discussed, as well as the challenges associated with modelling phenomena using ABMs.</p>
+<h1 id="preprint-linkhttpswwwsemanticscholarorgpapera-theoretical-model-of-the-individual-decision-for-fernandeza34dd4093a3d82f50cd9b122c898bea7d6242f1c"><a href="https://www.semanticscholar.org/paper/A-Theoretical-Model-of-the-Individual-Decision-for-Fernandez/a34dd4093a3d82f50cd9b122c898bea7d6242f1c">Preprint Link</a><a href="#preprint-linkhttpswwwsemanticscholarorgpapera-theoretical-model-of-the-individual-decision-for-fernandeza34dd4093a3d82f50cd9b122c898bea7d6242f1c" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+
+      </div></div>
+
+  
+
+  
+
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2021 Powered by <a href="http://gohugo.io">Hugo</a></span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="https://rahuljosephfernandez.github.io/assets/main.js"></script>
+<script src="https://rahuljosephfernandez.github.io/assets/prism.js"></script>
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>
