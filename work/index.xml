@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on Rahul Joseph Fernandez</title>
-    <link>https://rahuljosephfernandez.github.io/about/work/</link>
+    <link>https://rahuljosephfernandez.github.io/work/</link>
     <description>Recent content in Works on Rahul Joseph Fernandez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rahuljosephfernandez.github.io/about/work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rahuljosephfernandez.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Theoretical Model of the Individual-Decision Making Processes for Refugees</title>
-      <link>https://rahuljosephfernandez.github.io/about/work/work1/</link>
+      <link>https://rahuljosephfernandez.github.io/work/work1/</link>
       <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rahuljosephfernandez.github.io/about/work/work1/</guid>
+      <guid>https://rahuljosephfernandez.github.io/work/work1/</guid>
       <description>This project aims to provide a model for the individual-decision making process for refugees that could further be translated into computerized or large-scale multi-agent simulations.
 Abstract There exists contemporarily over 70 million people forced into displacement, which is historically the highest the world has seen, making aid for humanitarian crises more necessary than ever. This paper aims at a formulation for a basic theoretical model, within the Agent-Based Modelling (ABM) framework, that can be used in to make predictions about refugee migration-decision making processes.</description>
     </item>
     
     <item>
       <title>Modelling Traffic Intersection Dynamics through an Agent-Based Model Framework</title>
-      <link>https://rahuljosephfernandez.github.io/about/work/work0/</link>
+      <link>https://rahuljosephfernandez.github.io/work/work0/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rahuljosephfernandez.github.io/about/work/work0/</guid>
+      <guid>https://rahuljosephfernandez.github.io/work/work0/</guid>
       <description>This project aims to leverage the capabilities of agent-based modelling (ABM) as a tool to investigate complex and dynamical systems.
 It is still a working project and has been placed on a preprint archive until thoroughly completed.
 Abstract This paper proposes a simple agent-based model for traffic intersection dynamics in urban Bangalore, India. Traffic flow dynamics have been studied through the employment of several toolkits such as fluid and nonlinear dynamics, network theory, computer and information science etc.</description>

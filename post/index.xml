@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Rahul Joseph Fernandez</title>
-    <link>https://rahuljosephfernandez.github.io/about/post/</link>
+    <link>https://rahuljosephfernandez.github.io/post/</link>
     <description>Recent content in Posts on Rahul Joseph Fernandez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rahuljosephfernandez.github.io/about/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rahuljosephfernandez.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hello, world</title>
-      <link>https://rahuljosephfernandez.github.io/about/post/hello/</link>
+      <link>https://rahuljosephfernandez.github.io/post/hello/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rahuljosephfernandez.github.io/about/post/hello/</guid>
+      <guid>https://rahuljosephfernandez.github.io/post/hello/</guid>
       <description>I am currently a Master&amp;rsquo;s candidate at the Weill Cornell Graduate School of Medical Sciences at Cornell University in Biostatistics &amp;amp; Data Science.
 Broadly, I am interested in complex and dynamical systems and the leveraging of mathematical, statistical, and computational tools, in tandem with data, to aid in the investigation of these systems. These interests have led me to study and research within realms of Machine and Deep Learning, Non-Linear Dynamics, Discrete Event Simulation, Geospatial Analysis, and more recently Topological Data Analysis.</description>
     </item>

@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rahul Joseph Fernandez</title>
-    <link>https://rahuljosephfernandez.github.io/about/</link>
+    <link>https://rahuljosephfernandez.github.io/</link>
     <description>Recent content on Rahul Joseph Fernandez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rahuljosephfernandez.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rahuljosephfernandez.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://rahuljosephfernandez.github.io/about/resume/</link>
+      <link>https://rahuljosephfernandez.github.io/resume/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rahuljosephfernandez.github.io/about/resume/</guid>
+      <guid>https://rahuljosephfernandez.github.io/resume/</guid>
       <description>Resumé </description>
     </item>
     
     <item>
       <title>A Theoretical Model of the Individual-Decision Making Processes for Refugees</title>
-      <link>https://rahuljosephfernandez.github.io/about/work/work1/</link>
+      <link>https://rahuljosephfernandez.github.io/work/work1/</link>
       <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rahuljosephfernandez.github.io/about/work/work1/</guid>
+      <guid>https://rahuljosephfernandez.github.io/work/work1/</guid>
       <description>This project aims to provide a model for the individual-decision making process for refugees that could further be translated into computerized or large-scale multi-agent simulations.
 Abstract There exists contemporarily over 70 million people forced into displacement, which is historically the highest the world has seen, making aid for humanitarian crises more necessary than ever. This paper aims at a formulation for a basic theoretical model, within the Agent-Based Modelling (ABM) framework, that can be used in to make predictions about refugee migration-decision making processes.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://rahuljosephfernandez.github.io/about/about/</link>
+      <link>https://rahuljosephfernandez.github.io/about/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rahuljosephfernandez.github.io/about/about/</guid>
+      <guid>https://rahuljosephfernandez.github.io/about/</guid>
       <description>The areas of research that I am interested in primarily lie within the realm of computation and the mathematical and statistical methods employed therein. My ongoing research on FRD dynamics in peri-urban mosaics has allowed me to apply some of these advanced concepts to a complex geospatial system and has led to a furthering of my understanding of these theories and how to efficiently apply them. Underlying my work and interests is simply a long-standing love for data and what one can do with contemporarily.</description>
     </item>
     
     <item>
       <title>hello, world</title>
-      <link>https://rahuljosephfernandez.github.io/about/post/hello/</link>
+      <link>https://rahuljosephfernandez.github.io/post/hello/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rahuljosephfernandez.github.io/about/post/hello/</guid>
+      <guid>https://rahuljosephfernandez.github.io/post/hello/</guid>
       <description>I am currently a Master&amp;rsquo;s candidate at the Weill Cornell Graduate School of Medical Sciences at Cornell University in Biostatistics &amp;amp; Data Science.
 Broadly, I am interested in complex and dynamical systems and the leveraging of mathematical, statistical, and computational tools, in tandem with data, to aid in the investigation of these systems. These interests have led me to study and research within realms of Machine and Deep Learning, Non-Linear Dynamics, Discrete Event Simulation, Geospatial Analysis, and more recently Topological Data Analysis.</description>
     </item>
     
     <item>
       <title>Modelling Traffic Intersection Dynamics through an Agent-Based Model Framework</title>
-      <link>https://rahuljosephfernandez.github.io/about/work/work0/</link>
+      <link>https://rahuljosephfernandez.github.io/work/work0/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rahuljosephfernandez.github.io/about/work/work0/</guid>
+      <guid>https://rahuljosephfernandez.github.io/work/work0/</guid>
       <description>This project aims to leverage the capabilities of agent-based modelling (ABM) as a tool to investigate complex and dynamical systems.
 It is still a working project and has been placed on a preprint archive until thoroughly completed.
 Abstract This paper proposes a simple agent-based model for traffic intersection dynamics in urban Bangalore, India. Traffic flow dynamics have been studied through the employment of several toolkits such as fluid and nonlinear dynamics, network theory, computer and information science etc.</description>
@@ -58,19 +58,19 @@ Abstract This paper proposes a simple agent-based model for traffic intersection
     
     <item>
       <title></title>
-      <link>https://rahuljosephfernandez.github.io/about/cv/</link>
+      <link>https://rahuljosephfernandez.github.io/cv/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rahuljosephfernandez.github.io/about/cv/</guid>
+      <guid>https://rahuljosephfernandez.github.io/cv/</guid>
       <description>Curriculum Vitae </description>
     </item>
     
     <item>
       <title>Contact Information</title>
-      <link>https://rahuljosephfernandez.github.io/about/contact/</link>
+      <link>https://rahuljosephfernandez.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rahuljosephfernandez.github.io/about/contact/</guid>
+      <guid>https://rahuljosephfernandez.github.io/contact/</guid>
       <description></description>
     </item>
     
