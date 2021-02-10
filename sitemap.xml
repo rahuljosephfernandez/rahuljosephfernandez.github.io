@@ -3,60 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rahuljosephfernandez.github.io/resume/</loc>
+    <loc>https://rahuljosephfernandez.github.io/about/resume/</loc>
     <lastmod>2021-02-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahuljosephfernandez.github.io/work/work1/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rahuljosephfernandez.github.io/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rahuljosephfernandez.github.io/work/</loc>
+    <loc>https://rahuljosephfernandez.github.io/about/work/work1/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rahuljosephfernandez.github.io/about/</loc>
+    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahuljosephfernandez.github.io/about/work/</loc>
+    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahuljosephfernandez.github.io/about/about/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahuljosephfernandez.github.io/post/hello/</loc>
+    <loc>https://rahuljosephfernandez.github.io/about/post/hello/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahuljosephfernandez.github.io/work/work0/</loc>
+    <loc>https://rahuljosephfernandez.github.io/about/work/work0/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahuljosephfernandez.github.io/post/</loc>
+    <loc>https://rahuljosephfernandez.github.io/about/post/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahuljosephfernandez.github.io/cv/</loc>
+    <loc>https://rahuljosephfernandez.github.io/about/cv/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahuljosephfernandez.github.io/categories/</loc>
+    <loc>https://rahuljosephfernandez.github.io/about/categories/</loc>
   </url>
   
   <url>
-    <loc>https://rahuljosephfernandez.github.io/contact/</loc>
+    <loc>https://rahuljosephfernandez.github.io/about/contact/</loc>
   </url>
   
   <url>
-    <loc>https://rahuljosephfernandez.github.io/tags/</loc>
+    <loc>https://rahuljosephfernandez.github.io/about/tags/</loc>
   </url>
   
 </urlset>
