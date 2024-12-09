@@ -545,29 +545,29 @@ function ANIMATE() {
 
     }
 
-    else if (KEYS.ArrowUp.pressed && PREVIOUS_KEY === 'ArrowUp') {
-        MOVABLES.forEach((movable) => {
-            movable.POSITION.y += 7
-        });
-    }
+    // else if (KEYS.ArrowUp.pressed && PREVIOUS_KEY === 'ArrowUp') {
+    //     MOVABLES.forEach((movable) => {
+    //         movable.POSITION.y += 7
+    //     });
+    // }
 
-    else if (KEYS.ArrowLeft.pressed && PREVIOUS_KEY === 'ArrowLeft') {
-        MOVABLES.forEach((movable) => {
-            movable.POSITION.y += 7
-        });
-    }
+    // else if (KEYS.ArrowLeft.pressed && PREVIOUS_KEY === 'ArrowLeft') {
+    //     MOVABLES.forEach((movable) => {
+    //         movable.POSITION.y += 7
+    //     });
+    // }
 
-    else if (KEYS.ArrowDown.pressed && PREVIOUS_KEY === 'ArrowDown') {
-        MOVABLES.forEach((movable) => {
-            movable.POSITION.y -= 7
-        })
-    }
+    // else if (KEYS.ArrowDown.pressed && PREVIOUS_KEY === 'ArrowDown') {
+    //     MOVABLES.forEach((movable) => {
+    //         movable.POSITION.y -= 7
+    //     })
+    // }
 
-    else if (KEYS.ArrowRight.pressed && PREVIOUS_KEY === 'ArrowRight') {
-        MOVABLES.forEach((movable) => {
-            movable.POSITION.x -= 7
-        })
-    }
+    // else if (KEYS.ArrowRight.pressed && PREVIOUS_KEY === 'ArrowRight') {
+    //     MOVABLES.forEach((movable) => {
+    //         movable.POSITION.x -= 7
+    //     })
+    // }
 
 };
 
@@ -594,22 +594,22 @@ window.addEventListener('keydown', (e) => {
             KEYS.d.pressed = true
             PREVIOUS_KEY = 'd'
             break
-        case 'ArrowUp':
-            KEYS.ArrowUp.pressed = true
-            PREVIOUS_KEY = 'ArrowUp'
-            break
-        case 'ArrowLeft':
-            KEYS.ArrowLeft.pressed = true
-            PREVIOUS_KEY = 'ArrowLeft'
-            break
-        case 'ArrowDown':
-            KEYS.ArrowDown.pressed = true
-            PREVIOUS_KEY = 'ArrowDown'
-            break
-        case 'ArrowRight':
-            KEYS.ArrowRight.pressed = true
-            PREVIOUS_KEY = 'ArrowRight'
-            break
+        // case 'ArrowUp':
+        //     KEYS.ArrowUp.pressed = true
+        //     PREVIOUS_KEY = 'ArrowUp'
+        //     break
+        // case 'ArrowLeft':
+        //     KEYS.ArrowLeft.pressed = true
+        //     PREVIOUS_KEY = 'ArrowLeft'
+        //     break
+        // case 'ArrowDown':
+        //     KEYS.ArrowDown.pressed = true
+        //     PREVIOUS_KEY = 'ArrowDown'
+        //     break
+        // case 'ArrowRight':
+        //     KEYS.ArrowRight.pressed = true
+        //     PREVIOUS_KEY = 'ArrowRight'
+        //     break
     }
 
 });
@@ -629,18 +629,18 @@ window.addEventListener('keyup', (e) => {
         case 'd':
             KEYS.d.pressed = false
             break
-        case 'ArrowUp':
-            KEYS.ArrowUp.pressed = false
-            break
-        case 'ArrowLeft':
-            KEYS.ArrowLeft.pressed = false
-            break
-        case 'ArrowDown':
-            KEYS.ArrowDown.pressed = false
-            break
-        case 'ArrowRight':
-            KEYS.ArrowRight.pressed = false
-            break
+        // case 'ArrowUp':
+        //     KEYS.ArrowUp.pressed = false
+        //     break
+        // case 'ArrowLeft':
+        //     KEYS.ArrowLeft.pressed = false
+        //     break
+        // case 'ArrowDown':
+        //     KEYS.ArrowDown.pressed = false
+        //     break
+        // case 'ArrowRight':
+        //     KEYS.ArrowRight.pressed = false
+        //     break
     }
 
 });
